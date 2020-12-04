@@ -1,2 +1,2 @@
 # mvc_demo
-Test project using SpringBoot
+Test project using SpringBoot.
